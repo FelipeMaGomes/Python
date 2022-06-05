@@ -1,0 +1,6 @@
+Dia = input('Qual dia você naceu?')
+print('Exelente')
+Mês = input('Qual mês você naceu?')
+print('realmente exelente')
+Ano = input('Qual ano você naceu?')
+print('Então você neceu no ano' ,Ano, 'no dia de' ,Dia, 'e no mês de' ,Mês, 'Certo?')
